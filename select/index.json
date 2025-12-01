@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Prisoner Of Love",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-01T13:18:06.952502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prisoner Of Love",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Prisoner_Of_Love_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prisoner of Love",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Prisoner_of_Love_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prisoner of Love (Original Karaoke)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_Prisoner_of_Love_(Original_Karaoke)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prisoner Of Love - Quiet Version",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/04_Prisoner_Of_Love_-_Quiet_Version_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prisoner Of Love - Karaoke",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Prisoner_Of_Love_-_Karaoke_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prisoner Of Love",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/06_Prisoner_Of_Love_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Prisoner Of Love",
+      "artist": "Axel Rudi Pell",
+      "has_synced": true,
+      "path": "select/07_Prisoner_Of_Love_Axel_Rudi_Pell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prisoner of Love",
+      "artist": "Tin Machine",
+      "has_synced": true,
+      "path": "select/08_Prisoner_of_Love_Tin_Machine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prisoner Of Love - Edit",
+      "artist": "Tin Machine",
+      "has_synced": false,
+      "path": "select/09_Prisoner_Of_Love_-_Edit_Tin_Machine.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prisoner Of Love (Edit)",
+      "artist": "Tin Machine",
+      "has_synced": false,
+      "path": "select/10_Prisoner_Of_Love_(Edit)_Tin_Machine.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prisoner of Love",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/11_Prisoner_of_Love_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Japanese Prisoner of Love",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/12_Japanese_Prisoner_of_Love_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prisoner of Love",
+      "artist": "The Platters",
+      "has_synced": true,
+      "path": "select/13_Prisoner_of_Love_The_Platters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prisoner Of Love - 1999 Remastered Version",
+      "artist": "Tin Machine",
+      "has_synced": false,
+      "path": "select/14_Prisoner_Of_Love_-_1999_Remastered_Version_Tin_Machine.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Prisoner Of Love",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/15_Prisoner_Of_Love_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Prisoner of Love",
+      "artist": "Nana Mouskouri",
+      "has_synced": false,
+      "path": "select/16_Prisoner_of_Love_Nana_Mouskouri.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Prisoner Of Love",
+      "artist": "The Platters",
+      "has_synced": false,
+      "path": "select/17_Prisoner_Of_Love_The_Platters.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prisoner Of Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Prisoner_Of_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Prisoner Of Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Prisoner_Of_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Prisoner Of Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Prisoner_Of_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Prisoner Of Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Prisoner_Of_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Prisoner Of Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Prisoner_Of_Love_宇多田_ヒカル.txt"
+    }
+  ]
+}
